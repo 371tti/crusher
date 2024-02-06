@@ -34,7 +34,13 @@
 | 9 | 9 |18 |27 |36 |45 |54 |63 |72 |81 |
 
 
-
+```python
+inport time
+while True:
+  time += 1
+  print(time)
+  time.sleep(1)
+```
 
 ## 番号付きリスト
 
