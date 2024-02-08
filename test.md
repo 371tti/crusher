@@ -35,6 +35,9 @@ hello world
 これは *斜体* と **太字** の例です。  
 こんなかんじに分が続きます。
 
+<https://www.markdownguide.org>
+<fake@example.com>
+
 ## 箇条書きリスト
 
 - アイテム 1
