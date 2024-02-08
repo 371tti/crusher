@@ -36,7 +36,14 @@ hello world
 こんなかんじに分が続きます。
 
 <https://www.markdownguide.org>
+
 <fake@example.com>
+
+I love supporting the **[EFF](https://eff.org)**.
+
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+
+See the section on [`code`](#code).
 
 ## 箇条書きリスト
 
